@@ -3,7 +3,7 @@
 # Hi, I'm Vaibhav Dudhabhate
 # 💫 About Me:
 
-🔭 I’m currently working at Quanticteq web technolgy in India.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about React, Next, DevOps.
+🔭 I’m currently working at Quanticteq web technolgy in India.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about React js, Next js, node js ,express js.
 
 
 ## 🌐 Socials:
